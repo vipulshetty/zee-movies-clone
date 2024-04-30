@@ -39,33 +39,33 @@ export default function Home() {
           </div>
         </div>
         <div className="flex justify-center space-x-4 mt-8">
-          <FilmCard 
-            imageSrc="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg"
-            title="Show name"
+        <FilmCard 
+            imageSrc="https://upload.wikimedia.org/wikipedia/en/5/5e/Sooryavanshi_film_poster.jpg?20211021083113"
+            title="Surya vanshi"
             rating="7.2"
             releaseDate="2019"
           />
           <FilmCard 
-            imageSrc="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg"
-            title="Show name"
+            imageSrc="https://upload.wikimedia.org/wikipedia/en/c/cc/K.G.F_Chapter_1_poster.jpg"
+            title="KGF"
             rating="7.2"
             releaseDate="2019"
           />
           <FilmCard 
-            imageSrc="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg"
-            title="Show name"
+            imageSrc="https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg"
+            title="RRR"
             rating="7.2"
             releaseDate="2019"
           />
           <FilmCard 
-            imageSrc="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg"
-            title="Show name"
+            imageSrc="https://upload.wikimedia.org/wikipedia/en/8/84/Kantara_poster.jpeg"
+            title="Kantara"
             rating="7.2"
             releaseDate="2019"
           />
           <FilmCard 
-            imageSrc="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg"
-            title="Show name"
+            imageSrc="https://upload.wikimedia.org/wikipedia/en/e/ea/Brahmastra_Part_One_Shiva.jpg"
+            title="Bramhastra"
             rating="7.2"
             releaseDate="2019"
           />
